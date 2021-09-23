@@ -80,7 +80,7 @@ span{
   margin-left: 55px;
   margin-top: 10px;
   color: hsl(245, 75%, 52%);
-  transition: .5s ease-in-out;
+  transition: .8s ease-in;
 }
 
 .change-link:hover{
@@ -111,7 +111,7 @@ span{
   box-shadow: 0 8px 16px rgba(0,0,0,.2);
   font-weight: bold;
   cursor: pointer;
-  transition: .5s ease-in-out;
+  transition: .8s ease-in;
 }
 
 .payment-btn:hover{
@@ -124,7 +124,7 @@ span{
   cursor: pointer;
   color: hsl(224, 23%, 55%);
   font-weight: bold;
-  transition: .5s ease-in-out;
+  transition: .8s ease-in;
 }
 
 .cancel:hover{
