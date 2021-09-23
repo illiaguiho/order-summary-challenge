@@ -48,6 +48,7 @@ I would like to improve in CSS for front end development because I really have a
 
 
 ## Author
-- Frontend Mentor - [illiaguiho](https://www.frontendmentor.io/profile/illiaguiho)
-- Vercel - [illiaguiho](vercel.com/notelivi)
-- Instagram - [@notelivi](https://www.instagram.com/notelivi)
+- [Frontend Mentor](https://www.frontendmentor.io/profile/illiaguiho)
+- [Vercel](vercel.com/notelivi)
+- [Instagram](https://www.instagram.com/notelivi)
+- [Behance](https://www.behance.net/eliviguiho)
