@@ -48,6 +48,8 @@ I would like to improve in CSS for front end development because I really have a
 
 
 ## Author
+
+### Links
 - [Frontend Mentor](https://www.frontendmentor.io/profile/illiaguiho)
 - [Vercel](vercel.com/notelivi)
 - [Instagram](https://www.instagram.com/notelivi)
