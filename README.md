@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [order-summary-solution](https://your-solution-url.com)
+- Solution URL: [order-summary-solution](https://www.frontendmentor.io/solutions/order-summary-card-using-html-and-css-IxQs7MBr9)
 - Live Site URL: [order-summary-live](https://order-summary-challenge-three.vercel.app)
 
 ## My process
